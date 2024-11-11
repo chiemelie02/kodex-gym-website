@@ -17,4 +17,4 @@ document.querySelector('.left-arrow').addEventListener('click', () => {
 });
 
 // Autoplay functionality
-setInterval(() => showTestimonial(currentIndex + 1), 7000);
+setInterval(() => showTestimonial(currentIndex + 1), 5000);
