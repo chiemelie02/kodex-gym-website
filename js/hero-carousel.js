@@ -21,5 +21,5 @@
             document.querySelector('.heroCarousel').style.transform = `translateX(${offset}%)`;
         }
     
-        setInterval(showNextItem, 3000);
+        setInterval(showNextItem, 4000);
     })();
